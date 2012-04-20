@@ -1,8 +1,9 @@
 {
-  "name": "hipstermoz",
-  "fullName": "hipstermoz",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+    "name": "hipstermoz", 
+    "license": "MPL 2.0", 
+    "author": "", 
+    "version": "0.1", 
+    "fullName": "hipstermoz", 
+    "id": "jid1-TRPIa4DBXXLBgg", 
+    "description": "a basic add-on"
 }
